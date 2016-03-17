@@ -15,10 +15,11 @@
  */
 
 @import "bourbon";
-
+@import "colors";
 
 body{
   font-family: 'Helvetica Nueue', 'Arial', sans-serif;
+  background: $green;
 }
 
 .container{
